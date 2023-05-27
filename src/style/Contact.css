@@ -1,0 +1,78 @@
+
+
+/* body */
+
+
+.items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 8px;
+    margin: 85px 0;
+}
+
+.item svg{
+    display: block;
+    margin: 20px auto;
+}
+
+.item p{
+    display: flex;
+    justify-content: center;
+    font-weight: 650;
+    color: rgb(0, 0, 0);
+}
+.form-contact{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 600px;
+    margin: 80px 0;
+}
+.image{
+    background-image: url("https://picsum.photos/520/600");
+    background-repeat: no-repeat;
+}
+
+.mess-background{
+    background: rgb(154, 211, 41);
+}
+.mess{ 
+    margin: 35px 75px;
+    width: 450px;
+}
+.mess-1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+.mess-1 h2{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.input-1{
+    display: grid;
+    grid-template-columns: 13% 87%;
+    margin-bottom: 30px;
+}
+label#icon{
+    background-color: aliceblue;
+    padding: 15px 21px;
+    border-radius: 5px 0 0 5px;
+}
+input#name{
+    border-radius: 0 5px 5px 0;
+    outline: none;
+    font-size: 20px;
+    padding: 10px 0 10px 5px;
+    border: 0;
+}
+textarea{
+    outline: none;
+    border: 0;
+    border-radius: 0 5px 5px 0;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+    
+}
+/* body */

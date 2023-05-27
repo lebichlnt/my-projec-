@@ -1,0 +1,74 @@
+{
+    "User": [
+        {
+            "information": {
+                "name": "XIN CHÀO! Mr LE BICH:))",
+                "img": "https://3.bp.blogspot.com/-_r2krP6xitQ/UkQWqs5EaGI/AAAAAAAAAkQ/z6HRahkaJuc/s1600/anh-dep-hinh-nen-thien-nhien-21.jpg",
+                "description": "Be who you are and say what you mean, because those who mind don’t matter and those who matter don’t mind."
+            },
+            "posts": [
+                {
+                    "id": 1,
+                    "title": "experiential activities",
+                    "date": "10 Feb 2023",
+                    "shortdescription": "content 1",
+                    "description": "Be who you are and say what you mean, because those who mind don’t matter and those who matter don’t mind."
+                },
+                {
+                    "id": 2,
+                    "title": "experiential activities",
+                    "date": "10 Feb 2023",
+                    "shortdescription": "content 2",
+                    "description": "Be who you are and say what you mean, because those who mind don’t matter and those who matter don’t mind."
+                }
+            ],
+            "projects": [
+                {
+                    "id": 1,
+                    "name": "security 2",
+                    "img": "https://leadtravel.com.vn/cam-nang-du-lich/wp-content/uploads/2016/12/tong-hop-nhung-hinh-anh-dep-nhat-cua-sapa-9.jpg",
+                    "year": "2023",
+                    "shortdescription": "Typography",
+                    "description": "Be who you are and say what you mean, because those who mind don’t matter and those who matter don’t mind.t.",
+                    "skill": [
+                        "HTML",
+                        "CSS",
+                        "PHP"
+                        
+                    ],
+                    "category": "web"
+                },
+                {
+                    "id": 1,
+                    "name": "security 1",
+                    "img": "http://3.bp.blogspot.com/-5OiJxFhZc8k/VRYqVNG0awI/AAAAAAAABg8/5zCDsLHB02U/s1600/anh-dep-3d-ve-thien-nhien-2.jpg",
+                    "year": "2023",
+                    "shortdescription": "Illustration",
+                    "description": "Be who you are and say what you mean, because those who mind don’t matter and those who matter don’t mind.t.",
+                    "skill": [
+                        "HTML",
+                        "CSS",
+                        "JS"
+                        
+                    ],
+                    "category": "web"
+                },
+                {
+                    "id": 1,
+                    "name": "security 1",
+                    "img": "http://xemanhdep.com/wp-content/uploads/2013/07/hinh-dep.jpg",
+                    "year": "2023",
+                    "shortdescription": "Dashboard",
+                    "description": "Be who you are and say what you mean, because those who mind don’t matter and those who matter don’t mind.t.",
+                    "skill": [
+                        "HTML",
+                        "CSS",
+                        "JS"
+                       
+                    ],
+                    "category": "web"
+                }
+            ]
+        }
+    ]
+}
